@@ -1,0 +1,24 @@
+{
+  "name": "afraz",
+  "version": "1.0.0",
+  "description": "the portfolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrazafoo/afrazafoo.git"
+  },
+  "author": "Afraz Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afrazafoo/afrazafoo/issues"
+  },
+  "homepage": "https://github.com/afrazafoo/afrazafoo#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
